@@ -49,7 +49,7 @@ orm_log = false			#是否sql日志
 domain = ["liveppp.com"]				#邮件域名可可配置多个 示例: ["example1.com","example2.com"]
 admin = "admin@liveppp.com"					#管理员的邮箱	示例: admin@example.com
 jwt_secret = "fd2880e90e791d26f577aa9e985f2156d3c35a1e3d0a01c4"			#jwt令牌的密钥,随便填一串字符串
-dingtalk_webhook_url = "https://oapi.dingtalk.com/robot/send?access_token=c18b0d22d154c8f47042f847f987d7873451f6246d1731a550bfa395a98a1f8a"
+dingtalk_webhook_url = "https://oapi.dingtalk.com/robot/send?access_token=ddca26db9528e8d9513e7b783120db9990f58d5af4b38934679f4180ca29e6d5"
 dingtalk_secret = ""
 dingtalk_target_email = "x-report@liveppp.com"
 dingtalk_keywords = "X晨报,x-report,晨报,精报,推特"
